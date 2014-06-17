@@ -6,9 +6,9 @@
   		"express": "3.4.7",
   		"socket.io": "1.0.4",
   		"image-size": "0.3.0" 		
-  }
-    "scripts": {
-	"start: "node app.js"
+  },
+  "scripts": {
+  "start": "node app.js"
 	},
 	"main": "app.js"
 }
